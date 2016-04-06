@@ -1,4 +1,4 @@
-	#include <malloc.h> // biblioteca com função de alocação de memoria
+#include <malloc.h> // biblioteca com função de alocação de memoria
 /* 
  * A definição serve para não ter duplicação na inserção do codigo
  * O "#ifndef" e "#define" Podem ser substituidos por "#pragma once"
